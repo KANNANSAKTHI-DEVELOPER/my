@@ -1,0 +1,35 @@
+.form
+{
+    background-color: yellow;
+}
+.logo
+{
+text-align: center ;
+}
+.total
+{
+background-image: url(./white-easter-car-with-pink-egg-copy-space.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+background-attachment: scroll;
+justify-content: right;
+display: flex;
+}
+form
+{
+font-size: large;
+text-decoration: white;
+text-align: center;
+padding: 10%;
+background-image: url(./7ccb010d8fddc4bcd84587ef3c34d100.jpg);
+background-size: 20%;                       
+padding-bottom: 5%;
+margin:  5px;
+padding: 15px ;
+border-radius: 10%;
+text-align: center;
+}
+input
+{
+    padding: 10%;
+}
